@@ -8,9 +8,9 @@
     퀘스트 문제 요구조건 등을 지칭
     - Layer 의 구성이 달라지는 경우에 대해서 plot 과 함께 분석함:
         
-        ![Screenshot 2024-05-28 at 5.44.03 PM.png](/aiffel/aiffel/aiffel_projects/AIFFEL_Quest02/images/Screenshot_2024-05-28_at_5.44.03_PM.png)
+        ![Screenshot 2024-05-28 at 5.44.03 PM.png](images/Screenshot_2024-05-28_at_5.44.03_PM.png)
         
-        ![Screenshot 2024-05-28 at 5.43.51 PM.png](/aiffel/aiffel/aiffel_projects/AIFFEL_Quest02/images/Screenshot_2024-05-28_at_5.43.51_PM.png)
+        ![Screenshot 2024-05-28 at 5.43.51 PM.png](images/Screenshot_2024-05-28_at_5.43.51_PM.png)
         
 - [x]  **2. 프로젝트에서 핵심적인 부분에 대한 설명이 주석(닥스트링) 및 마크다운 형태로 잘 기록되어있나요? (설명)**
     - [x]  모델 선정 이유
