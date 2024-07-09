@@ -1,6 +1,6 @@
-<img width="765" alt="image" src="https://github.com/wjdgml0526/aiffel_projects/assets/106143629/9535c2ea-3b9c-4cbe-a419-6e1b5187d8b0">🔑 **PRT(Peer Review Template)**  
-리뷰어:   
-코더:  
+🔑 **PRT(Peer Review Template)**  
+리뷰어:김형민
+코더:이정희
 
 - [ ]  **1. 주어진 문제를 해결하는 완성된 코드가 제출되었나요? (완성도)**
     - 문제에서 요구하는 최종 결과물이 첨부되었는지 확인
